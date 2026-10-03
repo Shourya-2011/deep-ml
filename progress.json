@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-10-03T11:01:37.882Z",
+  "items": {
+    "problem:542": {
+      "kind": "problem",
+      "id": "542",
+      "title": "Build a Multi-Armed Bandit Testbed",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/542",
+      "path": "problems/0542-build-a-multi-armed-bandit-testbed",
+      "first_solved_at": "2026-10-03T11:01:33.594Z",
+      "last_pushed_at": "2026-10-03T11:01:33.594Z",
+      "language": "python",
+      "lines": 12
+    }
+  }
+}
