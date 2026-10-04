@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**5** solved · 5 problems · 0 labs · 0 math
+**6** solved · 6 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Estimate Action Values Using Sample Averaging](https://www.deep-ml.com/problems/543) | easy | 2026-10-03 | [solution](problems/0543-estimate-action-values-using-sample-averaging) |
 | [Exponential Weighted Average of Rewards](https://www.deep-ml.com/problems/161) | easy | 2026-10-04 | [solution](problems/0161-exponential-weighted-average-of-rewards) |
 | [Incremental Mean for Online Reward Estimation](https://www.deep-ml.com/problems/159) | easy | 2026-10-04 | [solution](problems/0159-incremental-mean-for-online-reward-estimation) |
+| [Optimistic Initialization for Exploration](https://www.deep-ml.com/problems/509) | easy | 2026-10-04 | [solution](problems/0509-optimistic-initialization-for-exploration) |
 | [Epsilon-Greedy Action Selection for n-Armed Bandit](https://www.deep-ml.com/problems/158) | medium | 2026-10-04 | [solution](problems/0158-epsilon-greedy-action-selection-for-n-armed-bandit) |
 
 ---
